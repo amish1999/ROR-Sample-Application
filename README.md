@@ -8,6 +8,7 @@ by [Michael Hartl](http://michaelhartl.com/).
 - [Ruby on Rails]( https://rubyonrails.org/)
 
 #### Contributed By:
-- [Amish Bharti](https://github.com/amish1999) ??
+- [Amish Bharti](https://github.com/amish1999) 💗
+
 
 
